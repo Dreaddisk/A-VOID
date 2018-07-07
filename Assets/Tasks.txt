@@ -1,0 +1,8 @@
+Tasks for the mission system:
+
+[Done] Create a Solar System orbit.
+[Done] Create a fuelGauge. The game will restart when the fuelGauge gets empty.
+[Done] Create a OnTrigger collider that counts points when the spaceship collides with a Planet.
+[] Make an Ontrigger collison when the spaceship collides with a planet, the fuelgauge refreshes.
+[Done]Make a OnTriggerCollision to Restart the game when the ship is too close from the Sun.
+Create a Random Range Mission System.
